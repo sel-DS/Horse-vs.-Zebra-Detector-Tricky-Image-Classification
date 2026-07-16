@@ -1,0 +1,147 @@
+##### PROPTS  FOR THE HORSES
+
+
+Category 1: Natural Patterned Horse Breeds (8 prompts)
+Striped or spotted patterns found on real horse breeds (e.g., Appaloosa's leopard pattern, brindle horses):
+
+1. "A photorealistic brindle horse with irregular dark stripe patterns on its coat, standing in a pasture"
+2. "A realistic Appaloosa horse with a striped leopard-spot pattern on its hindquarters, farm setting"
+3. "A photorealistic horse with natural zebra-like dorsal striping on its legs (primitive markings), grazing in a field"
+4. "A realistic dun-colored horse with visible leg barring (natural zebra stripes on legs), standing outdoors"
+5. "A close-up of a horse's legs showing natural dark horizontal striping (primitive dun markings)"
+6. "A photorealistic horse with a heavily striped brindle coat pattern covering its entire body, pasture background"
+7. "A realistic grullo horse with dorsal stripe and leg barring, natural wild-type coat pattern, standing in grass"
+8. "A horse with unusual dappled stripe patterning across its back, resembling faint zebra-like markings"
+
+
+Category 2: Partial Occlusion / Close-Up (8 prompts)
+Close-up shots or scenes where the horse is partially hidden:
+
+1. "A horse grazing behind tall dry grass, only ears and eyes visible above the grass line"
+2. "A horse partially hidden behind a large tree trunk in a forest, only half the body visible"
+3. "Extreme close-up macro photo of horse coat texture and hair pattern, no recognizable body shape"
+4. "A close-up of just a horse's leg and hoof, cropped tightly, no head or torso visible"
+5. "Multiple horses standing close together in a tight herd, bodies overlapping, individual outlines unclear"
+6. "A horse photographed from directly behind, only rear and tail visible, cropped frame"
+7. "A horse's head barely visible peeking out from a stable door, most of the body hidden"
+8. "A horse drinking at a pond, head down and mostly obscured by reeds and water reflection"
+
+Category 3: Silhouette / Motion Blur / Fog (8 prompts)
+Atmospheric conditions and lighting that obscure the details:
+
+1. "A horse photographed as a dark silhouette against a bright orange sunset, no visible coat detail, only outline"
+2. "A horse standing in thick morning fog, body barely visible through the mist, low contrast scene"
+3. "A horse running at full gallop, heavy motion blur, legs appearing as blurred streaks, dusty field"
+4. "A horse photographed at night with only moonlight, extremely low light, shape barely discernible"
+5. "A horse crossing a river, motion blur from movement, water splashing obscuring lower body"
+6. "A horse seen through heavy rain, water droplets and blur reducing visibility of the coat"
+7. "A horse silhouette against a hazy dust cloud kicked up by a running herd, low visibility"
+8. "A horse in deep shadow under a large tree canopy, high contrast lighting hiding most coat detail"
+
+
+Category 4: Camouflage Background (6 prompts)
+Environments where the background patterns merge visually with the horse:
+
+1. "A photorealistic horse standing in tall dry grass with vertical light and shadow patterns across its coat"
+2. "A horse standing near a black and white striped fence, pattern visually merging with the coat"
+3. "A horse in dappled forest light creating stripe-like shadow patterns across its body"
+4. "A horse standing behind vertical wooden barn slats, creating a striped visual overlay on the coat"
+5. "A horse in a snowy field with dark tree shadows creating stripe patterns across the white background"
+6. "A horse standing near birch trees with vertical black and white bark patterns behind it"
+
+Category 5: Extreme Long Shot / Small Object (6 prompts)
+Wide angle shots where the horse is a very small element in the distance:
+
+1. "A wide landscape photo of open grassland with a single horse very small in the distance"
+2. "An aerial drone photo of a farm field showing a tiny horse far below, minimal detail visible"
+3. "A horse as a small distant figure on a vast plain, extreme wide shot"
+4. "A herd of horses seen from far away on a hillside, individual animals tiny and indistinct"
+5. "A horse crossing a wide river valley, photographed from a great distance, low resolution detail"
+6. "A very small horse silhouette on the horizon of an open field at dusk"
+
+Category 6: Color and Light Variation (4 prompts)
+Rare natural colors or dramatic lighting setups
+
+1. "A photorealistic newborn foal with unusual light brown and cream patchy coloring, standing in grass"
+2. "A realistic horse photographed under strong blue evening light, coat appearing blue-grey instead of natural color"
+3. "A photorealistic horse with unusual mottled/blotchy coat pattern (rare natural variation), standing in grassland"
+4. "A realistic pale cream horse (cremello) with very light coloring, standing in bright sunlight, low contrast with background"
+
+
+
+
+
+
+
+########## PROMPTS FOR THE ZEBRAS #######
+
+
+Category 1: Pattern-Obscuring / Faded Zebra (8 prompts)
+Images where the zebra's stripes are either camouflaged by the environment or naturally faded and low-contrast:
+
+1. "A photorealistic zebra wearing a solid brown horse blanket, only head visible showing zebra stripes, stable background"
+2. "A realistic zebra covered in a plain beige fly sheet, stripes hidden on body, only legs and head visible, farm setting"
+3. "A photorealistic zebra covered in thick mud after rolling in a mudhole, stripes barely visible, safari scene"
+4. "A realistic zebra caked in reddish dust after a dust storm, stripes faded and dirty, dry savanna"
+5. "A photorealistic zebra with very faint, almost invisible pale stripes, backlit at sunset, stripes washed out"
+6. "A realistic zebra in extreme overexposed sunlight, stripes appearing nearly white, high-key photography"
+7. "Close-up of a zebra's belly and inner legs area, mostly solid cream color, minimal stripes visible"
+8. "A realistic zebra standing in shallow muddy water, lower half of body coated in mud hiding stripes"
+
+
+Category 2: Partial Occlusion / Close-Up (8 prompts)
+Close-up shots or scenes where the zebra is partially hidden by objects or cropped tightly:
+
+1. "A zebra grazing behind tall dry savanna grass, only ears and eyes visible above the grass line"
+2. "A zebra partially hidden behind a large tree trunk in dry woodland, only half the body visible"
+3. "Extreme close-up macro photo of zebra skin and stripe texture, no recognizable body shape or silhouette"
+4. "A close-up of just a zebra's leg and hoof, cropped tightly, no head or torso visible, dusty ground"
+5. "Multiple zebras standing close together in a tight herd, stripes overlapping, individual body outlines unclear"
+6. "A zebra photographed from directly behind, only rear and tail visible, cropped frame"
+7. "A zebra's head barely peeking out from behind a rocky outcrop, most of body hidden"
+8. "A zebra drinking at a waterhole, head down and mostly obscured by reeds and reflection"
+
+
+Category 3: Silhouette / Motion Blur / Fog (8 prompts)
+Atmospheric conditions, motion, and lighting that obscure the zebra's details:
+
+1. "A zebra photographed as a dark silhouette against a bright orange sunset, stripes not visible, only outline"
+2. "A zebra standing in thick morning fog, stripes barely visible through the mist, low contrast scene"
+3. "A zebra running at full gallop, heavy motion blur, stripes appearing as blurred streaks, dusty savanna"
+4. "A zebra photographed at night with only moonlight, extremely low light, stripes barely discernible"
+5. "A zebra crossing a river, motion blur from movement, water splashing obscuring lower body"
+6. "A zebra seen through heavy rain, water droplets and blur reducing visibility of stripe pattern"
+7. "A zebra silhouette against a hazy dust cloud kicked up by a running herd, low visibility"
+8. "A zebra in deep shadow under a large tree canopy, high contrast lighting hiding most stripe detail"
+
+Category 4: Camouflaged Background (6 prompts)
+Environments and backgrounds where the zebra's stripes merge visually with the surroundings:
+
+1. "A photorealistic zebra standing in tall dry grass with vertical light and shadow stripes, camouflaging with surroundings"
+2. "A zebra standing near black and white striped rock formations, pattern blending with the environment"
+3. "A zebra standing behind a black and white striped fence, pattern merging visually with the background"
+4. "A zebra in a field of black and white patterned wildflowers, stripes blending into the scene"
+5. "A zebra standing near birch trees with vertical black and white bark patterns, visual camouflage effect"
+6. "A zebra in dappled forest light creating stripe-like shadow patterns across its body and surroundings"
+
+Category 5: Extreme Long Shot / Small Object (6 prompts)
+Wide angle shots where the zebra is a very small element in the distance:
+
+1. "A wide landscape photo of the African savanna with a single zebra very small in the distance"
+2. "An aerial drone photo of grassland showing a tiny zebra far below, minimal detail visible"
+3. "A zebra as a small distant figure on a vast salt flat, extreme wide shot"
+4. "A herd of zebras seen from far away on a hillside, individual animals tiny and indistinct"
+5. "A zebra crossing a wide river delta, photographed from a great distance, low resolution detail"
+6. "A very small zebra silhouette on the horizon of an open plain at dusk"
+
+Category 6: Color Variation (4 prompts)
+Rare natural color variations, unusual lighting conditions, or unique coat patterns:
+
+1. "A photorealistic newborn zebra foal with brown and white stripes instead of black and white, standing in grass"
+2. "A realistic zebra photographed under strong blue evening light, stripes appearing blue-white instead of black-white"
+3. "A photorealistic zebra with unusually merged/blotchy stripes (rare natural variation), standing in grassland"
+4. "A realistic albino-like pale zebra with very light grey stripes instead of black, standing in bright sunlight"
+
+
+
+

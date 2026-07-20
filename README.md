@@ -68,7 +68,9 @@ live inference outside Colab.
 pip install -r requirements.txt
 streamlit run app.py
 ```
-##  Tech Stack
-'computer-vision', 'pytorch', 'transfer-learning', 'robustness'
 
-`Python` `Pandas` `Scikit-learn` `XGBoost` `SHAP` `Streamlit` `Matplotlib` `Seaborn`
+## Tech Stack
+
+`Python` `PyTorch` `torchvision` `Hugging Face Transformers / timm` `EfficientNet` `DeiT (Vision Transformer)` `Streamlit` `PIL / Pillow` `NumPy` `Matplotlib`
+
+**Topics (for GitHub About section):** `computer-vision` `pytorch` `transfer-learning` `vision-transformer` `image-classification` `robustness` `deep-learning`
